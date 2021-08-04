@@ -1,0 +1,8 @@
+/**
+* Diamond Craft's changelog @ April 2, 2012
+*/
+
++ Added possibility to stay logged in when leaving the website (@ IrwinTheBoognish)
++ Added a "Logout" button on "My Account" page (as requested)
+* Other minor changes
+* Fixed an issue with the forum's threads pages count not displaying correctly
